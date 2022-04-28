@@ -7,7 +7,7 @@
 
 # API Documentation
 
-## 1. Get Transactions
+## 1. Get Transactions (Designed For Testing Purposes)
 ```
 curl http://localhost:8080/transaction
 ```
