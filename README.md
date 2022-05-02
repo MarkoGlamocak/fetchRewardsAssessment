@@ -1,9 +1,16 @@
 # **fetchRewardsAssessment**
-
+# Language and Framework Used
+Golang's Gin Web Framework
+# Install Go
+1. Go to `https://go.dev` and click on download
+2. Select the download link that corresponds to your operating system
+3. Go through the downloaded installer to get Go installed on your machine
 # Running the Web Server
-1. Clone the repo
-2. Locate the repo in your terminal
-3. Run the following command: `go run server.go`
+1. Open up your terminal
+2. Navigate to a repo you want to clone this repo in
+3. Clone the repo by running the following command: `git clone https://github.com/MarkoGlamocak/fetchRewardsAssessment.git`
+4. `cd` into the cloned repo
+5. Run the following command: `go run server.go`
 
 # API Documentation
 
