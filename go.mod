@@ -1,4 +1,4 @@
-module example/fetchRewards
+module github.com/MarkoGlamocak/fetchRewardsAssessment
 
 go 1.17
 
